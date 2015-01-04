@@ -1,6 +1,7 @@
 Data Science
 ============
 
-View the "Country Analysis" Project Code and Output @ http://nbviewer.ipython.org/github/ashwingiridharan/datascience/blob/master/countryanalysis.ipynb
+View the "World Country Similarities/Differences" Project Code and Observations @ http://nbviewer.ipython.org/github/ashwingiridharan/datascience/blob/master/countryanalysis.ipynb
 
-NBViewer for "Snow Prediction" Project to be posted
+View the "White Cristmas Prediction" Project Final Report and Code @
+http://www3.cs.stonybrook.edu/~skiena/591/final_projects/white_christmas/
